@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/edit"
+        android:orderInCategory="11"
+        android:title="Edit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/product"
+        android:orderInCategory="11"
+        android:title="Products"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/orders"
+        android:orderInCategory="11"
+        android:title="Consumer Orders"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/chat"
+        android:orderInCategory="11"
+        android:title="Chats"
+        app:showAsAction="never" />
+
+</menu>
