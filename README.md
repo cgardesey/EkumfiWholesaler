@@ -7,8 +7,8 @@ This is an Android app developed for wholesalers to manage their inventory and s
 -  **Inventory management**: Keep track of products, stock levels, and prices.
 -  **Order management**: Receive and process customer orders.
 -  **Customer management**: Maintain customer information and order history.
-4. **Secure Checkout:** Enjoy a safe and secure payment process to complete your purchase.
-5. **Chat:** Chat with your customers using the in-app messaging feature
+-  **Secure Checkout:** Enjoy a safe and secure payment process to complete your purchase.
+-  **Chat:** Chat with your customers using the in-app messaging feature
 
 ## Getting Started
 
