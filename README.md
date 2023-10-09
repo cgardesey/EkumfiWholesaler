@@ -1,4 +1,4 @@
-# ProductTraderWholesaler
+# Ekumfi Juice Wholesaler App
 
 This is an Android application that enables efficient trading of Ekumfi juice products between wholesalers and stores. This app simplifies the process of ordering, managing inventory, and tracking sales, making it easier for businesses to connect and trade Ekufi juice products seamlessly.
 
