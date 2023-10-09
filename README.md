@@ -1,11 +1,11 @@
 # ProductTraderWholesaler
 
-This is an Android app developed for wholesalers to manage their inventory and streamline their business operations.
+This is an Android application that enables efficient trading of Ekumfi juice products between wholesalers and stores. This app simplifies the process of ordering, managing inventory, and tracking sales, making it easier for businesses to connect and trade Ekufi juice products seamlessly.
 
 ## Features
 
 -  **Inventory management**: Keep track of products, stock levels, and prices.
--  **Order management**: Receive and process customer orders.
+-  **Order management**: Receive and process store orders.
 -  **Customer management**: Maintain customer information and order history.
 -  **Secure Checkout:** Enjoy a safe and secure payment process to complete your purchase.
 -  **Chat:** Chat with your customers using the in-app messaging feature
@@ -30,7 +30,6 @@ The example project requires the following configuration:
 
 You may need to update these values in the `build.gradle` file based on your project requirements.
 
-
 ## Technologies Used
 
 - Android
@@ -39,8 +38,12 @@ You may need to update these values in the `build.gradle` file based on your pro
 - Glide (for image loading)
 - Realm (for local data storage)
 
-If you're looking to integrate with the backend api, make sure to check out the  [backend repo](https://github.com/cgardesey/product_trader_apps_backend) for detailed instructions.
+If you're looking to integrate with the backend api, make sure to check out the  [backend repo](https://github.com/cgardesey/ekumfi_juice_backend) for detailed instructions.
+
+## Contributing
+
+I welcome contributions to enhance this project. If you find any bugs or have feature suggestions, please open an issue or submit a pull request. Make sure to follow the existing coding style and conventions.
 
 ## License
 
-ProductTraderWholesaler project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
